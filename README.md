@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Mithran%20A&fontSize=60&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%20%7C%20%20Backend%20Developer%20%20%7C%20%20Research%20Enthusiast&descAlignY=56&descSize=18&descColor=a0aec0" />
+<h1>Hi, I'm Mithran A 👋</h1>
+<h3>AI & ML Engineer &nbsp;·&nbsp; Backend Developer &nbsp;·&nbsp; Research Enthusiast</h3>
+<p><i>B.E. Computer Science (AI & ML) · Chennai Institute of Technology</i></p>
 
 <br/>
 
@@ -149,5 +151,9 @@ I'm open to collaborating on projects in **AI/ML research**, **computer vision**
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithrana.aiml2024@citchennai.net)
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
+
+---
+
+*Open to collaborations, research opportunities, and internships in AI/ML and software engineering.*
+
 </div>
