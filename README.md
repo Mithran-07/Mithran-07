@@ -1,18 +1,155 @@
-# 💫 About Me:
-# Hi there, I'm Mithran 👋<br><br>🚀 AI & Machine Learning Student | Backend Developer | Research Enthusiast<br><br>I'm an Artificial Intelligence & Machine Learning student passionate about building real-world AI systems that solve practical problems. My interests span Machine Learning, Deep Learning, MLOps, Cybersecurity, FinTech, Computer Vision, and Multi-Agent AI Systems.<br><br>I enjoy taking ideas from research to deployment by designing scalable backend architectures, training intelligent models, and building production-ready applications.<br><br>### 💡 What I'm Working On<br><br>* 🧠 Deep Learning research for dermoscopic skin lesion classification<br>* 🤖 AI-powered automation systems<br>* 🔒 AI-driven cybersecurity and vulnerability analysis<br>* 💰 Privacy-first FinTech & Regulatory AI applications<br>* ☁️ MLOps pipelines for deploying machine learning models<br><br>### 🛠 Tech Stack<br><br>**Languages**<br>Python • Java • C • SQL • JavaScript<br><br>**AI / ML**<br>PyTorch • TensorFlow • Scikit-learn • OpenCV • Hugging Face • LangChain<br><br>**Backend**<br>FastAPI • Flask • REST APIs • JWT Authentication<br><br>**Databases**<br>PostgreSQL • MySQL • SQLite • MongoDB<br><br>**Cloud & DevOps**<br>Docker • Git • GitHub • Linux • CUDA • WSL<br><br>### 🏆 Highlights<br><br>* 🥇 Winner – FinTech Track Hackathon<br>* 🏁 Multiple National Hackathon Finalist<br>* 📚 Deep Learning Research in Medical AI<br>* 💻 Passionate about building AI systems for real-world impact<br><br>### 🌱 Currently Learning<br><br>* Large Language Models (LLMs)<br>* Multi-Agent AI Systems<br>* Advanced Computer Vision<br>* AI Security<br>* Cloud-Native MLOps<br><br>### 📫 Connect with Me<br><br>Always open to collaborating on AI, ML, Computer Vision, Backend Development, Research, and Open Source projects.<br><br>> *"Building intelligent systems that create real-world impact."*<br>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Mithran%20A&fontSize=60&fontColor=00d4ff&animation=twinkling&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%20%7C%20%20Backend%20Developer%20%20%7C%20%20Research%20Enthusiast&descAlignY=56&descSize=18&descColor=a0aec0" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mithran-a-4ab1ab280/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mithrana.aiml2024@citchennai.net) 
+<br/>
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mithran-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Mithran-07&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mithran-07&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithran-a-4ab1ab280/)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mithrana.aiml2024@citchennai.net)
+[![GitHub](https://img.shields.io/badge/GitHub-Mithran--07-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mithran-07)
+[![Profile Views](https://komarev.com/ghpvc/?username=Mithran-07&style=flat-square&color=00d4ff&label=Profile+Views)](https://github.com/Mithran-07)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mithran-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+I'm a **3rd-year B.E. Computer Science Engineering** student specialising in **Artificial Intelligence & Machine Learning** at Chennai Institute of Technology. My work sits at the intersection of applied research and production engineering — I design systems that go from model training to real-world deployment.
+
+My current research focuses on **medical imaging AI** (dermoscopic skin lesion classification using dual-branch CNNs with Grad-CAM explainability) and **privacy-preserving FinTech systems** with federated learning. I'm equally comfortable deep in a training loop as I am designing a scalable FastAPI backend.
+
+> *"Building intelligent systems that create real-world impact."*
+
+---
+
+## What I'm Building
+
+| Area | Focus |
+|------|--------|
+| 🔬 Medical AI | Dermoscopic skin lesion classification — dual-branch CNN on ISIC/HAM10000 datasets with Focal Loss and Grad-CAM |
+| 🛡️ Regulatory AI | AI-powered AML & financial audit systems with federated learning architectures |
+| 🤖 MLOps | End-to-end pipelines for deploying, monitoring, and retraining production ML models |
+| 🌐 Multi-Agent Systems | Exploring LLM-based agent frameworks for automation and decision support |
+| 🔒 AI Security | Vulnerability analysis and AI-driven cybersecurity tooling |
+
+---
+
+## Featured Projects
+
+### 🧠 Skin Lesion Classification — Medical AI Research
+Deep learning system for dermoscopic image analysis using a dual-branch CNN architecture. Incorporates Focal Loss to handle class imbalance, Grad-CAM for explainability, and trained on the ISIC / HAM10000 datasets with a focus on non-melanoma classification.
+
+### 💰 AI Financial Audit System — FinTech
+Automated financial audit pipeline leveraging AI for anomaly detection, regulatory compliance checks, and risk scoring. Built for accuracy and auditability in high-stakes financial environments.
+
+### 🌉 InnoBridge — Full-Stack MERN Platform
+A collaborative innovation platform connecting students, researchers, and industry mentors. Full MERN stack with RESTful APIs, JWT authentication, and role-based access control.
+
+### 🖐️ AI Hand Gesture Mouse — Computer Vision
+Real-time gesture recognition system using OpenCV and MediaPipe to control the mouse cursor via hand gestures — no hardware required beyond a webcam.
+
+### 🚦 AI Traffic Management System
+Intelligent traffic signal optimisation using computer vision and reinforcement learning principles to reduce congestion and improve urban traffic flow.
+
+### 🩺 Smart BioPatch — IoT Research
+Research-stage wearable health monitoring system combining IoT sensor data with ML inference for real-time biometric analysis.
+
+---
+
+## Tech Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**AI / ML / DL**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+**Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=firebase)
+
+**Cloud, DevOps & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=flat-square&logo=microsoftazure&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+
+---
+
+## Highlights & Recognition
+
+- 🥇 **FinTech Track Hackathon Winner** — Built an AI-powered financial compliance solution under 24 hours
+- 🏁 **Multiple National Hackathon Finalist** — Consistent top performer across competitive AI/ML challenges
+- 📚 **Active ML Research** — Medical AI and Regulatory AI research with real dataset experimentation
+- 🎓 **AICTE-EduSkills Intern** — AI & ML and Cybersecurity tracks
+- 📜 **7 Professional Certifications** — Spanning ML, Deep Learning, Cloud, and Cybersecurity
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=Mithran-07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Mithran-07&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Mithran-07&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## Currently Exploring
+
+- Large Language Models & Prompt Engineering for production use cases
+- Multi-Agent AI Systems and orchestration frameworks
+- Advanced Computer Vision beyond classification (detection, segmentation, generation)
+- Cloud-Native MLOps — CI/CD for ML, model registries, drift monitoring
+- AI Security and adversarial robustness
+
+---
+
+## Let's Collaborate
+
+I'm open to collaborating on projects in **AI/ML research**, **computer vision**, **backend systems**, **MLOps**, and **open source**. If you're working on something in these spaces, feel free to reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithran-a-4ab1ab280/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mithrana.aiml2024@citchennai.net)
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,100:1a1a2e&height=100&section=footer" />
+</div>
