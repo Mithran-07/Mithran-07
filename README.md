@@ -19,8 +19,6 @@ I'm a **3rd-year B.E. Computer Science Engineering** student specialising in **A
 
 My current research focuses on **medical imaging AI** (dermoscopic skin lesion classification using dual-branch CNNs with Grad-CAM explainability) and **privacy-preserving FinTech systems** with federated learning. I'm equally comfortable deep in a training loop as I am designing a scalable FastAPI backend.
 
-> *"Building intelligent systems that create real-world impact."*
-
 ---
 
 ## What I'm Building
